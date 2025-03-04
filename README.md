@@ -1,5 +1,5 @@
 # Echo Journal: AI-Powered Journal
-Echo Journal is a mobile journaling app designe to help users write down their thoughts, track their emotions, and gain actionable insight into their mental well-being. By combining reflective writing with AI-driven emotion analysis, the app fosters self-awareness and provides personalized recommendations to improve emotional resilience.
+Echo Journal is a mobile journaling app designe to help users write down their thoughts, track their emotions, and gain actionable insight into their mental well-being. By combining reflective writing with self-trained AI-driven emotion analysis, the app fosters self-awareness and provides personalized recommendations to improve emotional resilience.
 
 ## Table of Contents
 - [Features](#features)
